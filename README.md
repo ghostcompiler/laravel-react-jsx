@@ -218,8 +218,8 @@ Build behavior:
 
 Hosted demos:
 
-- Render: https://dashboard-agpr.onrender.com/
-- Railway: http://dashboard-production-6de3.up.railway.app
+- Render: https://laravel-react-jsx.onrender.com/
+- Railway: https://laravel-react-jsx-production.up.railway.app
 
 How to deploy:
 
